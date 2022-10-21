@@ -5,4 +5,4 @@
 # Next step is checking the data types which has used in uber rides data.
 # Now counting duplicated rows and dropping the duplicate rows.
 # Using matplotlib,anlyazing the data according to month and collected that it has only one month(April) data.
-# Next analysis:To find total trips for each month and each weekdays.
+# Next analysis:To find total trips on each weekday.
