@@ -2,17 +2,18 @@
 
 <p align="center">
 
-__Business Problem:__
+## Business Problem: <br> 
 
-        Uber management wants to know how to effectively manage their rental fleet on ground. In order to do so, they would like to understand the trend of ride utilization by months, day of month, weekday of week and hour of the day across dispatch base location and also understand the usage by location on the map.
-
-
-__Dataset:__
-        **Data is downloaded from below website:**
-        https://www.kaggle.com/code/theoddwaffle/uber-data-analysis/data
+> Uber management wants to know how to effectively manage their rental fleet on ground. 
+> In order to do so, they would like to understand the trend of ride utilization by months, day of month, weekday of week and hour of the day across dispatch base location and also understand the usage by location on the map.
 
 
-__Dataset Metadata/Meaning of each column in data:__
+## Dataset:  <br> 
+        **Data is downloaded from below website:**  <br> 
+        https://www.kaggle.com/code/theoddwaffle/uber-data-analysis/data  <br> 
+
+
+## Dataset Metadata/Meaning of each column in data:
         **Data Record Count**: 4,534,327 (4.5 Miliion)
         **Number of Months**: 6
         **Month Name**: April, May, June, July, Aug, Sep
@@ -31,7 +32,7 @@ __Dataset Metadata/Meaning of each column in data:__
                     B02682 : Schmecken
                     B02764 : Danach-NY
 
-__Coding Tools:__
+## Coding Tools:__
         **Version Control** - Using Github
         **Coding Interface** - Jupyter Notebook.
         **Python Libraries used** - 
@@ -40,7 +41,7 @@ __Coding Tools:__
 
 
 
-__Overall Tasks Performed for NY Uber Ride Data Analysis:__
+## Overall Tasks Performed for NY Uber Ride Data Analysis:__
         **Step 1 - Collecting Data**
             Get Data and Metadata from Kaggle for NY Uber Rides
         **Step 2 - Loading Data**
@@ -55,7 +56,7 @@ __Overall Tasks Performed for NY Uber Ride Data Analysis:__
 
 
 
-__Uber Rides Utilization Insights Calculated for:__
+## Uber Rides Utilization Insights Calculated for:__
         **Insight 1 - Total number of Uber Rides by Month Name**
                 Determine Most and least Busiest Month 
                 Determine the nature of the trend
@@ -85,7 +86,7 @@ __Uber Rides Utilization Insights Calculated for:__
 
 
 
-__Results:__
+## Results:__
     **Finding:**
         Busiest hour - 5 PM. 
         Most Busy hour range - 3 PM to 9 PM (Evening). 
@@ -118,5 +119,5 @@ __Results:__
     **Possible Reason:**
         Busy area with office and tourist spots.
 
-__Overall Decision Making:__
+## Overall Decision Making:__
         Fleet Needs to be Managed effectively at Morning 8 AM and evening hours to meet the demand. More vehicles needed as year progresses due to higher demand. Base locations Unter and Danach needs more attention to increase numnber of rides. Base locations Weiter, Hinter and Schmecken have  managed increased demand consistenly throughout the year.
