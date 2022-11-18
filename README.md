@@ -7,13 +7,14 @@
 <ol>
     <li> Code File name to execute : uberdata.ipynb </li>
     <li> Data is stored in Data folder and Contains csv files</li>
+    <li> In order to run the code, please follow below instructions </li>
       <ul>
         <li> Step1: Install Python </li>
         <li> Step2: Set python interpreter </li>
         <li> Step3: Install Anaconda </li>
         <li> Step4: Install Jupyter Notebook </li>
         <li> Step5: Install Git </li>
-        <li> Step6: Download the contents from git repo https://github.com/Adikharche19/uberrides_analysis and store it on local folder</li>
+        <li> Step6: Download the contents from git repo https://github.com/Adikharche19/uberrides_analysis and store it in local folder</li>
         <li> Step7: open terminal/command prompt, naviate to folder location where content was downloaded and type jupyter notebook </li>
         <li> Step8: jupyter notebook will be launched in browser. Select the uberdata.ipynb from folder and open the file </li>
         <li> Step9: Start executing the file by clicking on run button on each cell or go in Kernel option and click on Restart and Run all </li>
