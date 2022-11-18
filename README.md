@@ -2,6 +2,23 @@
 
 <p align="center">
 
+## Instructions <br> 
+>
+<ul>
+    <li> Code File name to execute : uberdata.ipynb </li>
+    <li> Step1: Install Python </li>
+    <li> Step2: Set python interpreter </li>
+    <li> Step3: Install Anaconda </li>
+    <li> Step4: Install Jupyter Notebook </li>
+    <li> Step5: Install Git </li>
+    <li> Step6: Download the contents from git repo https://github.com/Adikharche19/uberrides_analysis and store it on local folder</li>
+    <li> Step7: open terminal/command prompt, naviate to folder location where content was downloaded and type jupyter notebook </li>
+    <li> Step8: jupyter notebook will be launched in browser. Select the uberdata.ipynb from folder and open the file </li>
+    <li> Step9: Start executing the file by clicking on run button on each cell or go in Kernel option and click on Restart and Run all </li>
+    <li> Step10: View the output cell by cell to understand the data flow and insights </li>
+<ul>
+
+
 ## Business Problem: <br> 
 
 <ul>
